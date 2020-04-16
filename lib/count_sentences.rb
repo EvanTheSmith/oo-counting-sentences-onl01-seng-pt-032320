@@ -20,6 +20,5 @@ class String
       thing.empty?
     end
     new_array.length
-      binding.pry
   end
 end
